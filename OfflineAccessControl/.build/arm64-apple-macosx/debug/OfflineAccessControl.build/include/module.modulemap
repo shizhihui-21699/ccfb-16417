@@ -1,0 +1,3 @@
+module OfflineAccessControl {
+    header "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/include/OfflineAccessControl-Swift.h"
+}

@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/primary.swiftdeps"
+  },
+  "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Tests/OfflineAccessControlTests/RevocationAndCryptoTests.swift": {
+    "dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/RevocationAndCryptoTests.d",
+    "object": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/RevocationAndCryptoTests.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/RevocationAndCryptoTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/RevocationAndCryptoTests.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/RevocationAndCryptoTests.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Tests/OfflineAccessControlTests/TestHarness.swift": {
+    "dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/TestHarness.d",
+    "object": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/TestHarness.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/TestHarness~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/TestHarness.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/TestHarness.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Tests/OfflineAccessControlTests/TimeAndLeaseTests.swift": {
+    "dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/TimeAndLeaseTests.d",
+    "object": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/TimeAndLeaseTests.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/TimeAndLeaseTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/TimeAndLeaseTests.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlTests.build/TimeAndLeaseTests.dia"
+  }
+}

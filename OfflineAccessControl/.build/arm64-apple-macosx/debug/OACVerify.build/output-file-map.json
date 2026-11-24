@@ -1,0 +1,40 @@
+{
+  "": {
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/primary.swiftdeps"
+  },
+  "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/CheckRunner.swift": {
+    "dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/CheckRunner.d",
+    "object": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/CheckRunner.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/CheckRunner~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/CheckRunner.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/CheckRunner.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/Entry.swift": {
+    "dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/Entry.d",
+    "object": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/Entry.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/Entry~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/Entry.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/Entry.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/RevocationAndCryptoScenarios.swift": {
+    "dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/RevocationAndCryptoScenarios.d",
+    "object": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/RevocationAndCryptoScenarios.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/RevocationAndCryptoScenarios~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/RevocationAndCryptoScenarios.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/RevocationAndCryptoScenarios.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/TestHarness.swift": {
+    "dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TestHarness.d",
+    "object": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TestHarness.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TestHarness~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TestHarness.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TestHarness.dia"
+  },
+  "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/TimeAndLeaseScenarios.swift": {
+    "dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TimeAndLeaseScenarios.d",
+    "object": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TimeAndLeaseScenarios.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TimeAndLeaseScenarios~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TimeAndLeaseScenarios.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TimeAndLeaseScenarios.dia"
+  }
+}

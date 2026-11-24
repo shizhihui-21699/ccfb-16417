@@ -1,0 +1,688 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.OACVerify-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/sources",
+      "importPath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/CheckRunner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/Entry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/RevocationAndCryptoScenarios.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/TestHarness.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/TimeAndLeaseScenarios.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/Modules/OfflineAccessControl.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "OACVerify",
+      "moduleOutputPath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/Modules/OACVerify.swiftmodule",
+      "objects" : [
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/CheckRunner.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/Entry.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/RevocationAndCryptoScenarios.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TestHarness.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TimeAndLeaseScenarios.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j14",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "OACVerify_main",
+        "-swift-version",
+        "6",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "offlineaccesscontrol"
+      ],
+      "outputFileMapPath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/CheckRunner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/Entry.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/RevocationAndCryptoScenarios.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TestHarness.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TimeAndLeaseScenarios.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/Modules/OACVerify.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/CheckRunner.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/Entry.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/RevocationAndCryptoScenarios.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/TestHarness.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/TimeAndLeaseScenarios.swift"
+      ],
+      "tempsPath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.OfflineAccessControl-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/sources",
+      "importPath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/AccessControlError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/ClockSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/DeviceIdentity.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/ECIES.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/FileVault.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/HKDFHelper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/KeychainSecureStorage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/Lease.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/OfflineAccessManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/Revocation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/SecureStorage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/TimeGuardian.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "OfflineAccessControl",
+      "moduleOutputPath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/Modules/OfflineAccessControl.swiftmodule",
+      "objects" : [
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/AccessControlError.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/ClockSource.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/DeviceIdentity.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/ECIES.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/FileVault.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/HKDFHelper.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/KeychainSecureStorage.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/Lease.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/OfflineAccessManager.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/Revocation.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/SecureStorage.swift.o",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/TimeGuardian.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx12.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j14",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/include/OfflineAccessControl-Swift.h",
+        "-swift-version",
+        "6",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "offlineaccesscontrol"
+      ],
+      "outputFileMapPath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/AccessControlError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/ClockSource.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/DeviceIdentity.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/ECIES.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/FileVault.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/HKDFHelper.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/KeychainSecureStorage.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/Lease.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/OfflineAccessManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/Revocation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/SecureStorage.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/TimeGuardian.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/Modules/OfflineAccessControl.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/AccessControlError.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/ClockSource.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/DeviceIdentity.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/ECIES.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/FileVault.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/HKDFHelper.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/KeychainSecureStorage.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/Lease.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/OfflineAccessManager.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/Revocation.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/SecureStorage.swift",
+        "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/TimeGuardian.swift"
+      ],
+      "tempsPath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "OACVerify" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "OACVerify",
+      "-package-name",
+      "offlineaccesscontrol",
+      "-c",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/CheckRunner.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/Entry.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/RevocationAndCryptoScenarios.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/TestHarness.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/TimeAndLeaseScenarios.swift",
+      "-I",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j14",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "OACVerify_main",
+      "-swift-version",
+      "6",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "offlineaccesscontrol",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ],
+    "OfflineAccessControl" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "OfflineAccessControl",
+      "-package-name",
+      "offlineaccesscontrol",
+      "-c",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/AccessControlError.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/ClockSource.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/DeviceIdentity.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/ECIES.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/FileVault.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/HKDFHelper.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/KeychainSecureStorage.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/Lease.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/OfflineAccessManager.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/Revocation.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/SecureStorage.swift",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/TimeGuardian.swift",
+      "-I",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx12.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j14",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/include/OfflineAccessControl-Swift.h",
+      "-swift-version",
+      "6",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "offlineaccesscontrol",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "OACVerify" : [
+      "OfflineAccessControl"
+    ],
+    "OfflineAccessControl" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/CheckRunner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/Entry.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/RevocationAndCryptoScenarios.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/TestHarness.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OACVerify/TimeAndLeaseScenarios.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/sources"
+    },
+    "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/AccessControlError.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/ClockSource.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/DeviceIdentity.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/ECIES.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/FileVault.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/HKDFHelper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/KeychainSecureStorage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/Lease.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/OfflineAccessManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/Revocation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/SecureStorage.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/Sources/OfflineAccessControl/TimeGuardian.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/sources"
+    },
+    "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/oac-verify-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/oac-verify-entitlement.plist"
+    },
+    "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/oac-verify.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/CheckRunner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/Entry.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/RevocationAndCryptoScenarios.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TestHarness.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TimeAndLeaseScenarios.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/AccessControlError.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/ClockSource.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/DeviceIdentity.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/ECIES.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/FileVault.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/HKDFHelper.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/KeychainSecureStorage.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/Lease.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/OfflineAccessManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/Revocation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/SecureStorage.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/TimeGuardian.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/oac-verify.product/Objects.LinkFileList"
+    },
+    "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

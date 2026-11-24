@@ -1,0 +1,17 @@
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/CheckRunner.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/Entry.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/RevocationAndCryptoScenarios.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TestHarness.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OACVerify.build/TimeAndLeaseScenarios.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/AccessControlError.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/ClockSource.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/DeviceIdentity.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/ECIES.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/FileVault.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/HKDFHelper.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/KeychainSecureStorage.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/Lease.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/OfflineAccessManager.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/Revocation.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/SecureStorage.swift.o
+/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControl.build/TimeGuardian.swift.o

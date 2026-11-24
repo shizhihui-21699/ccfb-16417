@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlPackageTests.build/primary.swiftdeps"
+  },
+  "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlPackageTests.derived/runner.swift": {
+    "dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlPackageTests.build/runner.d",
+    "object": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlPackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlPackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/shizhihui/ccfb/runs/16417/workspace/OfflineAccessControl/.build/arm64-apple-macosx/debug/OfflineAccessControlPackageTests.build/runner.dia"
+  }
+}
